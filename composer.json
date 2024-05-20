@@ -1,19 +1,14 @@
 {
-    "name": "bfg/text",
+    "name": "woub-chat/text",
     "description": "All sorts of chips to work with the text",
     "minimum-stability": "dev",
-    "type": "bfg-app",
+    "type": "app",
     "keywords": ["laravel", "extension", "text"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "bfg"
-        }
-    ],
     "prefer-stable": true,
     "require": {
         "php": ">=8.0.0",
-        "bfg/object": "^0.0.4"
+        "woub-chat/object": "^0.0.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0",
